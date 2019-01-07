@@ -1,0 +1,14 @@
+.\objects\spi.o: ..\App_Peripherals_API\spi.c
+.\objects\spi.o: ..\App_Peripherals_API\spi.h
+.\objects\spi.o: H:\Keil\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.17.0\Device\Include\nrf52.h
+.\objects\spi.o: H:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm4.h
+.\objects\spi.o: H:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\spi.o: H:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\spi.o: H:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\spi.o: H:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\spi.o: H:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\mpu_armv7.h
+.\objects\spi.o: H:\Keil\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.17.0\Device\Include\system_nrf52.h
+.\objects\spi.o: ..\App_Peripherals_Drivers\app_hal_spi.h
+.\objects\spi.o: ..\App_Peripherals_Drivers\app_hal_gpio.h
+.\objects\spi.o: ..\App_Peripherals_Drivers\app_drv_gpio.h
+.\objects\spi.o: H:\Keil\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.17.0\Device\Include\nrf52_bitfields.h

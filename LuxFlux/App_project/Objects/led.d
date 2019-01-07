@@ -1,0 +1,13 @@
+.\objects\led.o: ..\App_Peripherals_API\led.c
+.\objects\led.o: ..\App_Peripherals_API\led.h
+.\objects\led.o: ..\App_Peripherals_Drivers\app_hal_gpio.h
+.\objects\led.o: H:\Keil\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.17.0\Device\Include\nrf52.h
+.\objects\led.o: H:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm4.h
+.\objects\led.o: H:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\led.o: H:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\led.o: H:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\led.o: H:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\led.o: H:\Keil\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\mpu_armv7.h
+.\objects\led.o: H:\Keil\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.17.0\Device\Include\system_nrf52.h
+.\objects\led.o: ..\App_Peripherals_Drivers\app_drv_gpio.h
+.\objects\led.o: H:\Keil\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.17.0\Device\Include\nrf52_bitfields.h

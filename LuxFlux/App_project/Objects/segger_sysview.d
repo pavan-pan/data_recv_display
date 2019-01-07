@@ -1,0 +1,12 @@
+.\objects\segger_sysview.o: ..\SEGGER_sysview\SEGGER_SYSVIEW.c
+.\objects\segger_sysview.o: ..\SEGGER_sysview\SEGGER_SYSVIEW_Int.h
+.\objects\segger_sysview.o: ..\SEGGER_sysview\SEGGER_SYSVIEW.h
+.\objects\segger_sysview.o: ..\SEGGER_sysview\SEGGER.h
+.\objects\segger_sysview.o: H:\Keil\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\segger_sysview.o: ..\SEGGER_sysview\Global.h
+.\objects\segger_sysview.o: ..\SEGGER_sysview\SEGGER_SYSVIEW_Conf.h
+.\objects\segger_sysview.o: ..\SEGGER_sysview\SEGGER_SYSVIEW_ConfDefaults.h
+.\objects\segger_sysview.o: ..\SEGGER_sysview\SEGGER_RTT_Conf.h
+.\objects\segger_sysview.o: ..\SEGGER_sysview\SEGGER_RTT.h
+.\objects\segger_sysview.o: H:\Keil\ARM\ARMCC\Bin\..\include\string.h
+.\objects\segger_sysview.o: H:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h

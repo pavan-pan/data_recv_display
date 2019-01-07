@@ -1,0 +1,27 @@
+#ifndef STARTUP_H
+#define STARTUP_H
+
+#include "lp2_hal_gpio.h"
+#include "nrf_log_ctrl.h"
+#include "nrf_log_default_backends.h"
+#include "nrf_drv_clock.h"
+#include "lp2_hal_spi.h"
+#include "lp2_queues.h"
+#include "lp2_helper.h"
+#include "BQ25120.h"
+#include "nrf_log.h"
+#include "led.h"
+#include "spi.h"
+#include "ads1292r.h"
+#include "task.h"
+#include "lp2_pin_configuration.h"
+
+
+/**
+  * @brief  Function to Initialize all the modules
+  * @param  None
+  * @retval None
+  */
+void init_modules(void);
+
+#endif
